@@ -1,0 +1,19 @@
+.bg-color{
+    background-color: #5A67BA;
+}
+.txt-color{
+    color:#5A67BA ;
+}
+.circle{
+    border-radius:50%;
+}
+.border-color{
+    /*border-bottom-color: #C8CBD9;*/
+    border-color: #0a3622;
+}
+.sideBackGround{
+    background-color: #F1F2F7;
+}
+.back-opacity-color{
+    background-color:rgba(112, 127, 221, 0.1);
+}

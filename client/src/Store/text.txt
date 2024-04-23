@@ -1,0 +1,2 @@
+it is used for react state management
+we can use justand or react redux
